@@ -7,11 +7,14 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning BigData and BlockChain
-- 👯 I will graduate from Beijing University of Science and Technology
-- 🔭 I will work on ByteDance
-- 📫 How to reach me: yaoqijun@outlook.com
-- 😊 My blog is https://www.jianshu.com/u/52300d5c251a
+- 🌱 Always learning: Backend Development, Distributed Systems, Big Data, Blockchain & Cloud Native tech
+- 🎓 Alumni of **University of Science and Technology Beijing (USTB)**
+- 💼 Full-time Backend Engineer @ ByteDance
+- 🚀 Focus on backend service development, system optimization and high-concurrency architecture
+- 🤖 Enthusiastic programmer, enjoy writing clean, robust and efficient code
+- 📫 Reach out anytime: yaoqijun@outlook.com
+- 🌐 Personal technical blog: https://www.jianshu.com/u/52300d5c251a
+- 😄 A curious tech explorer, keep coding, keep growing
 
 
 #### Thank you for the visit.
